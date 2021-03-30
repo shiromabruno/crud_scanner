@@ -1,6 +1,6 @@
 # CRUD_Java
 
-This algorithm is a CRUD made in python that has the purpose of the four basic operations (creation, consultation, updating and destruction of data) used in relational databases (RDBMS).
+This algorithm is a CRUD made in Java that has the purpose of the four basic operations (creation, consultation, updating and destruction of data) used in relational databases (RDBMS).
 
 ## Requirements
 You will need to install the library below:
